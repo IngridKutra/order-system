@@ -7,6 +7,7 @@
  * Description: Labb 2 Ordersystem
  */
 
+It is a school project.
 
 /*
 1. skapa custom post type för våra produkter !!KLAR!!
